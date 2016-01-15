@@ -9,6 +9,7 @@ errorCallback = (e) ->
     <li>a modern HTML5 browser</li>
     <li>that supports your webcam</li>
     <li>currently this means (more or less): <a href="https://www.google.com/chrome" target="_blank">Google Chrome</a></li>
+    <li>and you need to view it from a [secure origin](https://www.chromium.org/Home/chromium-security/prefer-secure-origins-for-powerful-new-features) (for example, https)</li>
   </ul>
   Oh yeah, and when your browser asks you to access your webcam, you have to click "Allow".
   <br>If this does not solve your problem, and you think it\'s the code and not your browser, just go to <a href="https://github.com/franzenzenhofer/Spiegel">github</a> and start forking - it\'s open source!<p>
